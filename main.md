@@ -3,19 +3,19 @@
 (주) 한려 엘리베이터에 있는 제조사별 기종과 도면 자료를 정리하는 공간입니다.
 
 ## 1. 현대엘리베이터 (Hyundai Elevator)
-* STVF2 ** [도면 링크 또는 설명 적기]
-* STVF5 ** [도면 링크 또는 설명 적기]
+* STVF2 
+* STVF5 
 * STVF7
 * WBSS
 * GTLX
 ## 2. 오티스 엘리베이터 (OTIS)
-* DI 1:** [도면 링크]
+* DI 1
 * SIGMA
 * ACD3
 * ACD4
 * ACD5
 ## 3. 티케이엘리베이터 (TKE)
-* DY 20 ** [도면 링크]
+* DY 20 
 * TAC 50
 * MHC2
 * MC2BE
